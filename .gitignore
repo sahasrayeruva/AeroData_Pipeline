@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# IDE
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Generated database
+data/database/*.db
+
+# Generated processed datasets
+data/processed/
+
+# Generated reports
+reports/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
