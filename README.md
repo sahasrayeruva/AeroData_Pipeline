@@ -139,7 +139,7 @@ A flagged record can also be part of the clean dataset if it passes all rejectio
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/sahasrayeruva>
 cd AeroData-Pipeline
 ```
 
